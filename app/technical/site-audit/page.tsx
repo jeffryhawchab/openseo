@@ -116,7 +116,7 @@ export default function SiteAuditPage() {
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
                       <span className="text-sm font-medium">FID (First Input Delay)</span>
-                      <CheckCircle className="h-4 w-4 text-green-500" />
+                      <CheckCircle className="h-4 w-4 text-green-400" />
                     </div>
                     <span className="text-sm font-medium">18ms</span>
                   </div>
